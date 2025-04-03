@@ -2,3 +2,47 @@
    margin: 0;
    padding: 0;
 }
+
+
+
+body {
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-image: url("https://avatars.mds.yandex.net/i?id=e3812a6e8308c028d403cb2ee7720dc0_l-12816737-images-thumbs&n=13");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+form {
+  box-shadow: 19px 19px 30px 0px rgba(0,0,0,0.62);
+-webkit-box-shadow: 19px 19px 30px 0px rgba(0,0,0,0.62);
+-moz-box-shadow: 19px 19px 30px 0px rgba(0,0,0,0.62);
+   width: 700px;
+   height: 400px;
+   color: white;
+   gap: 15px;
+}
+
+.line {
+   display: flex;
+   padding: 10px;
+}
+
+.title {
+   width: 20%;
+   height: 35px;
+}
+
+.fild {
+   flex-grow: 1;
+}
+
+.submit {
+   width: 70%;
+   height: 40px;
+   background: transparent;
+   color: white;
+   border: white solid 2px;
+}
