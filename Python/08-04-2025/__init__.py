@@ -36,7 +36,7 @@
 #     b += k
 # print(b)
 
-# a = int(input('num1: '))
+# a = int(input('num1: ')) 
 # b = int(input('num2: '))
 # summa = 0
 # if a > b: a,b = b,a
@@ -44,4 +44,3 @@
 #     summa += a
 #     a += 1
 # print(summa)
-
