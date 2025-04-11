@@ -6,4 +6,4 @@
 - [08-04-2025](python/08-04-2025/) - циклы
 
 ## html+css-exam-10.04.25
-- [html+cssexam](ClassWork/html+cssexam/)
+- [html+cssexam](/html+cssexam/)
