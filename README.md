@@ -8,5 +8,5 @@
 ## html+css-exam-10.04.25
 - [html+css-exam-10.04.25](/html+css-exam-10.04.25/) - экзамен
 
-## puthon
+## python
 - [15-04-2025](puthon/15-04-2025/) - цикл for
