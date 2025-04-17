@@ -10,3 +10,6 @@
 
 ## python
 - [15-04-2025](Python/15-04-2025/) - цикл for
+
+## JavaScript
+- [17.04.2025](JavaScript/17.04.2025/) - Введение в JavaScript
