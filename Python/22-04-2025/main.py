@@ -100,9 +100,9 @@
 Возведение числа в степень
 '''
 
-a = int(input('введите число: '))
-n = int(input('введите число: '))
-pow = 1
-for i in range(n):
-    pow *= a
-print(pow)
+# a = int(input('введите число: '))
+# n = int(input('введите число: '))
+# pow = 1
+# for i in range(n):
+#     pow *= a
+# print(pow)
