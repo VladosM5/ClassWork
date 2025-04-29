@@ -1,3 +1,5 @@
+import random
+
 #Задание 1
 
 '''
@@ -29,5 +31,7 @@ if a > b: a,b = b,a
 for i in range(a, b+1):
     if i % 3 == 0:
         count += 1
-print()
+        summa += i
+        count += 1
+print(summa/count)
 '''
