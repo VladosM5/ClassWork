@@ -137,6 +137,7 @@ print(mult)
 
 # Сумма элементов, находящихся между первым и последним положительными элементами
 
+'''
 numbers = [2, 3, -4, 6, 2, 6, -3, 78, 9, 5, -8, 5, 7, 4, -5, 8, 4, -7, 6, 8, 4]
 first_index = 0
 last_index = 0
@@ -153,3 +154,4 @@ summ = 0
 for i in range(first_index+1, last_index):
     summ += numbers[i]
 print(summ)
+'''
